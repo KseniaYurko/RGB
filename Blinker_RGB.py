@@ -1,7 +1,7 @@
 import pyfirmata
 import time
 
-board = pyfirmata.Arduino("COM4")  
+board = pyfirmata.Arduino("COM3")  
 
 N =[2,3,4,5,6,7]
 
